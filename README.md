@@ -1,2 +1,2 @@
 # clash-offline-installer
-Clash 各版本的离线安装包
+Clash 某些版本的离线安装包
